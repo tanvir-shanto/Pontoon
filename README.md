@@ -2,7 +2,7 @@
 
 A simple game of Pontoon
 
-#How to compile and run:
+# How to compile and run:
 
 1. Place all the .java class files in a single folder
 
